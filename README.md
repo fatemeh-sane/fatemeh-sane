@@ -1,10 +1,11 @@
 # Hi friends 👋
 
-<h2>my name is fatemeh sane❣️</h2>
+<h2>❣️my name is fatemeh ❣️</h2>
 
-
+<h3>About Me</h3>
  - 💻&nbsp; FrontEnd Developer
- - 😉 &nbsp; I'm Learning React.js
+ <br>
+ - 📍 &nbsp; I'm Learning React.js
 
 
 <h3> Social Network</h3>
